@@ -4,7 +4,7 @@ This book is a collection of WebGL projects. I really enjoy how the book "Nature
 
 If you found this useful, please let me know to I keep working on it. All suggestions are welcome, and please put them in the issue tracker for this project.
 
-- @marcusstenbeck
+— Marcus ([@marcusstenbeck](http://twitter.com/marcusstenbeck))
 
 ## Chapters
 
